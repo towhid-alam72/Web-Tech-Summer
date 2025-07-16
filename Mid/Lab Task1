@@ -1,0 +1,16 @@
+<DOCTYPE html>
+    <html>
+        <body>
+            <title>MD DIDARUL ALAM TOWHID</title>
+            <h1>MD DIDARUL ALAM TOWHID</h1>
+            <p>I am from Feni.<br>I am curremtly studying at AIUB</p>
+            <h3>Hobbies : Fishing </h3>
+            <p style = "color : red">This is red color</p>
+            <p style = "color : blueviolet">This is blueviolet color</p>
+            <p style = "color : rosybrown">This is rosybrown color</p>
+           
+            <img src="download.png">
+             <a href = "https://openai.com/index/chatgpt/" This is ChatGPT></a>
+
+        </body>
+    </html>
